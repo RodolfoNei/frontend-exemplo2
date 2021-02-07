@@ -2,8 +2,6 @@
 
 ## Projeto de modelo para soluções web Front-end 
 
-### Link: http://draftbeerbar.com/index.php
-
 Este modelo consiste em um website completo da cervejaria Draft Beer Bar, e contém:
 
 - Homepage com Banner Rotativo
